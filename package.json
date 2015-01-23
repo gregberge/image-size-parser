@@ -1,6 +1,6 @@
 {
   "name": "image-size-parser",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse the size of an image from a string.",
   "main": "index.js",
   "scripts": {
